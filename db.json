@@ -41,6 +41,90 @@
         "id": "m3",
         "message": "Sorry, Delivery slots are full. We're increasing our capacity and opening delivery slots daily. Come back soon and check out the availability in your delivery area."
       }
+    },
+    {
+      "id": "s4",
+      "name": "Store name 4",
+      "deliveryDate": "2021-03-10 13:00:00",
+      "logo": "small-store-cover.png",
+      "subtotal": 12356.78,
+      "url": "/store-name-4",
+      "messageBanner": {
+        "bgColor": "#e6f4ff",
+        "color": "#2a2a2a",
+        "id": "m2",
+        "message": "Shop ₱1000.00 more for ₱200.00 delivery fee discount"
+      }
+    },
+    {
+      "id": "s5",
+      "name": "Store name 5",
+      "deliveryDate": "2021-03-10 13:00:00",
+      "logo": "small-store-cover.png",
+      "subtotal": 12356.78,
+      "url": "/store-name-5",
+      "messageBanner": {
+        "bgColor": "#e6f4ff",
+        "color": "#2a2a2a",
+        "id": "m2",
+        "message": "Shop ₱1000.00 more for ₱200.00 delivery fee discount"
+      }
+    },
+    {
+      "id": "s6",
+      "name": "Store name 6",
+      "deliveryDate": "2021-03-10 13:00:00",
+      "logo": "small-store-cover.png",
+      "subtotal": 12356.78,
+      "url": "/store-name-6",
+      "messageBanner": {
+        "bgColor": "#e6f4ff",
+        "color": "#2a2a2a",
+        "id": "m2",
+        "message": "Shop ₱1000.00 more for ₱200.00 delivery fee discount"
+      }
+    },
+    {
+      "id": "s7",
+      "name": "Store name 7",
+      "deliveryDate": "2021-03-10 13:00:00",
+      "logo": "small-store-cover.png",
+      "subtotal": 12356.78,
+      "url": "/store-name-7",
+      "messageBanner": {
+        "bgColor": "#0c21e5",
+        "color": "#ffffff",
+        "id": "m2",
+        "message": "Sorry, this store isn't available in your area yet!"
+      }
+    },
+    {
+      "id": "s8",
+      "name": "Store name 8",
+      "deliveryDate": "2021-03-10 13:00:00",
+      "logo": "small-store-cover.png",
+      "subtotal": 12356.78,
+      "url": "/store-name-8",
+      "messageBanner": {
+        "bgColor": "#0c21e5",
+        "color": "#ffffff",
+        "id": "m2",
+        "message": "Sorry, this store isn't available in your area yet!"
+      }
+    },
+    {
+      "id": "s9",
+      "name": "Store name 9",
+      "deliveryDate": "2021-03-10 13:00:00",
+      "logo": "small-store-cover.png",
+      "subtotal": 12356.78,
+      "url": "/store-name-9",
+      "messageBanner": {
+        "bgColor": "#0c21e5",
+        "color": "#ffffff",
+        "id": "m2",
+        "message": "Sorry, this store isn't available in your area yet!"
+      }
     }
   ],
   "deliveryAddresses": [
