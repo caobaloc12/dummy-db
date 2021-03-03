@@ -1,30 +1,49 @@
 {
-  "posts": [
+  "stores": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": "s1",
+      "name": "Costco",
+      "deliveryDate": "2021-03-06 13:00:00",
+      "logo": "small-store-cover.png",
+      "subtotal": 15740.25,
+      "url": "/costco",
+      "messageBanner": {
+        "bgColor": "#e6f4ff",
+        "color": "#2a2a2a",
+        "id": "m1",
+        "message": "Yay! You've reached this store's minimum purchase. Add more to get Free Delivery!"
+      }
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id": "s2",
+      "name": "Store name 2",
+      "deliveryDate": "2021-03-10 13:00:00",
+      "logo": "small-store-cover.png",
+      "subtotal": 12356.78,
+      "url": "/store-name-2",
+      "messageBanner": {
+        "bgColor": "#e6f4ff",
+        "color": "#2a2a2a",
+        "id": "m2",
+        "message": "Shop ₱1000.00 more for ₱200.00 delivery fee discount"
+      }
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "id": "s3",
+      "name": "Store name 3",
+      "deliveryDate": "2021-03-04 13:00:00",
+      "logo": "small-store-cover.png",
+      "subtotal": 15678.49,
+      "url": "/store-name-3",
+      "messageBanner": {
+        "bgColor": "#0c21e5",
+        "color": "#ffffff",
+        "id": "m3",
+        "message": "Sorry, Delivery slots are full. We're increasing our capacity and opening delivery slots daily. Come back soon and check out the availability in your delivery area."
+      }
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+  "deliveryAddresses": [],
   "profile": {
     "name": "lc12"
   }
