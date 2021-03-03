@@ -43,7 +43,29 @@
       }
     }
   ],
-  "deliveryAddresses": [],
+  "deliveryAddresses": [
+    {
+      "id": "da1",
+      "address": "Block 36 Lot 3 Bougainvillea St., Dreamland Subdivision, Hagonoy, Taguig, Metro Manila Landmark: Sky Blue Gate",
+      "customer": "John Vincent Rolluqui",
+      "label": "Home",
+      "isDefault": true
+    },
+    {
+      "id": "da2",
+      "address": "Block 36 Lot 3 Bougainvillea St., Dreamland Subdivision, Hagonoy, Taguig, Metro Manila Landmark: Sky Blue Gate",
+      "customer": "John Vincent Rolluqui",
+      "label": "Office",
+      "isDefault": false
+    },
+    {
+      "id": "da1",
+      "address": "Block 36 Lot 3 Bougainvillea St., Dreamland Subdivision, Hagonoy, Taguig, Metro Manila Landmark: Sky Blue Gate",
+      "customer": "John Vincent Rolluqui",
+      "label": "In-Laws",
+      "isDefault": false
+    }
+  ],
   "profile": {
     "name": "lc12"
   }
