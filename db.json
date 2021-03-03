@@ -68,5 +68,55 @@
   ],
   "profile": {
     "name": "lc12"
-  }
+  },
+  "cartItems": [
+    {
+      "id": "cart-item-product-id-1",
+      "name": "Watari High-grade Red Apples",
+      "imageUrl": "/store-featured-item.jpg",
+      "isAvailable": true,
+      "total": 3500,
+      "subTotal": 2000,
+      "weight": 1000,
+      "quantity": 9,
+      "discount": 20,
+      "url": "/item-url"
+    },
+    {
+      "id": "cart-item-product-id-2",
+      "name": "Watari High-grade Red Apples",
+      "imageUrl": "/store-featured-item-2.jpg",
+      "isAvailable": true,
+      "total": 3500,
+      "subTotal": 2000,
+      "weight": 1000,
+      "quantity": 9,
+      "discount": 20,
+      "url": "/item-url"
+    },
+    {
+      "id": "cart-item-product-id-1",
+      "name": "Watari High-grade Red Apples",
+      "imageUrl": "/store-featured-item-3.jpg",
+      "isAvailable": true,
+      "total": 3500,
+      "subTotal": 2000,
+      "weight": 1000,
+      "quantity": 9,
+      "discount": 20,
+      "url": "/item-url"
+    },
+    {
+      "id": "cart-item-product-id-1",
+      "name": "Watari High-grade Red Apples",
+      "imageUrl": "/store-featured-item-4.jpg",
+      "isAvailable": false,
+      "total": 3500,
+      "subTotal": 2000,
+      "weight": 1000,
+      "quantity": 9,
+      "discount": 20,
+      "url": "/item-url"
+    }
+  ]
 }
