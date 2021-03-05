@@ -226,7 +226,7 @@
     {
       "id": "cart-item-product-id-7",
       "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-1.jpg",
+      "imageUrl": "/store-featured-item.jpg",
       "isAvailable": true,
       "total": 3500,
       "subTotal": 2000,
