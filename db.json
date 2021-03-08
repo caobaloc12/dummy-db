@@ -12,7 +12,75 @@
         "color": "#2a2a2a",
         "id": "m1",
         "message": "Yay! You've reached this store's minimum purchase. Add more to get Free Delivery!"
-      }
+      },
+      "vouchers": [
+        {
+          "id": "vc1",
+          "voucherCode": "TEST1",
+          "voucherValue": 500,
+          "minimumPurchase": 1500,
+          "validity": {
+            "from": "2021/03/01",
+            "to": "2021/03/31"
+          },
+          "claimable": true
+        },
+        {
+          "id": "vc2",
+          "voucherCode": "TEST2",
+          "voucherValue": 500,
+          "minimumPurchase": 1500,
+          "validity": {
+            "from": "2021/03/01",
+            "to": "2021/03/31"
+          },
+          "claimable": true
+        },
+        {
+          "id": "vc3",
+          "voucherCode": "TEST3",
+          "voucherValue": 500,
+          "minimumPurchase": 1500,
+          "validity": {
+            "from": "2021/03/01",
+            "to": "2021/03/31"
+          },
+          "claimable": true
+        },
+        {
+          "id": "vc4",
+          "voucherCode": "TEST4",
+          "voucherValue": 500,
+          "minimumPurchase": 1500,
+          "validity": {
+            "from": "2021/03/01",
+            "to": "2021/03/31"
+          },
+          "claimable": true
+        },
+        {
+          "id": "vc5",
+          "voucherCode": "TEST5",
+          "voucherValue": 500,
+          "minimumPurchase": 1500,
+          "validity": {
+            "from": "2021/03/01",
+            "to": "2021/03/31"
+          },
+          "claimable": false
+        },
+        {
+          "id": "vc6",
+          "voucherCode": "TEST6",
+          "voucherValue": 500,
+          "minimumPurchase": 1500,
+          "validity": {
+            "from": "2021/03/01",
+            "to": "2021/03/31"
+          },
+          "claimable": false
+        }
+      ]
     },
     {
       "id": "s2",
