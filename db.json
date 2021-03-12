@@ -4,6 +4,7 @@
       "id": "s1",
       "name": "Costco",
       "deliveryDate": "2021-03-06 13:00:00",
+      "isChecked": true,
       "logo": "small-store-cover.png",
       "subtotal": 15740.25,
       "url": "/costco",
@@ -24,7 +25,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-2",
@@ -36,7 +38,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-3",
@@ -48,7 +51,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-4",
@@ -59,7 +63,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-5",
@@ -70,7 +76,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-6",
@@ -81,7 +89,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-7",
@@ -92,7 +102,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         }
       ],
       "vouchers": [
@@ -168,6 +180,7 @@
       "id": "s2",
       "name": "Store name 2",
       "deliveryDate": "2021-03-10 13:00:00",
+      "isChecked": true,
       "logo": "small-store-cover.png",
       "subtotal": 12356.78,
       "url": "/store-name-2",
@@ -188,7 +201,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-2",
@@ -200,7 +214,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-3",
@@ -212,7 +227,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-4",
@@ -223,7 +239,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-5",
@@ -234,7 +252,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-6",
@@ -245,7 +265,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-7",
@@ -256,7 +278,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         }
       ]
     },
@@ -264,6 +288,7 @@
       "id": "s3",
       "name": "Store name 3",
       "deliveryDate": "2021-03-04 13:00:00",
+      "isChecked": true,
       "logo": "small-store-cover.png",
       "subtotal": 15678.49,
       "url": "/store-name-3",
@@ -284,7 +309,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-2",
@@ -296,7 +322,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-3",
@@ -308,7 +335,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-4",
@@ -319,7 +347,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-5",
@@ -330,7 +360,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-6",
@@ -341,7 +373,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-7",
@@ -352,7 +386,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         }
       ]
     },
@@ -360,6 +396,7 @@
       "id": "s4",
       "name": "Store name 4",
       "deliveryDate": "2021-03-10 13:00:00",
+      "isChecked": true,
       "logo": "small-store-cover.png",
       "subtotal": 12356.78,
       "url": "/store-name-4",
@@ -380,7 +417,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-2",
@@ -392,7 +430,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-3",
@@ -404,7 +443,8 @@
           "weight": 1000,
           "quantity": 9,
           "discount": 20,
-          "url": "/item-url"
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-4",
@@ -415,7 +455,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-5",
@@ -426,7 +468,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-6",
@@ -437,7 +481,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         },
         {
           "id": "cart-item-product-id-7",
@@ -448,7 +494,9 @@
           "subTotal": 2000,
           "weight": 1000,
           "quantity": 9,
-          "discount": 20
+          "discount": 20,
+          "url": "/item-url",
+          "isChecked": true
         }
       ]
     },
@@ -456,6 +504,7 @@
       "id": "s5",
       "name": "Store name 5",
       "deliveryDate": "2021-03-10 13:00:00",
+      "isChecked": true,
       "logo": "small-store-cover.png",
       "subtotal": 12356.78,
       "url": "/store-name-5",
@@ -470,6 +519,7 @@
       "id": "s6",
       "name": "Store name 6",
       "deliveryDate": "2021-03-10 13:00:00",
+      "isChecked": true,
       "logo": "small-store-cover.png",
       "subtotal": 12356.78,
       "url": "/store-name-6",
@@ -484,6 +534,7 @@
       "id": "s7",
       "name": "Store name 7",
       "deliveryDate": "2021-03-10 13:00:00",
+      "isChecked": true,
       "logo": "small-store-cover.png",
       "subtotal": 12356.78,
       "url": "/store-name-7",
@@ -498,6 +549,7 @@
       "id": "s8",
       "name": "Store name 8",
       "deliveryDate": "2021-03-10 13:00:00",
+      "isChecked": true,
       "logo": "small-store-cover.png",
       "subtotal": 12356.78,
       "url": "/store-name-8",
@@ -512,6 +564,7 @@
       "id": "s9",
       "name": "Store name 9",
       "deliveryDate": "2021-03-10 13:00:00",
+      "isChecked": true,
       "logo": "small-store-cover.png",
       "subtotal": 12356.78,
       "url": "/store-name-9",
@@ -548,142 +601,5 @@
   ],
   "profile": {
     "name": "lc12"
-  },
-  "cartItems": [
-    {
-      "id": "cart-item-product-id-1",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20,
-      "url": "/item-url"
-    },
-    {
-      "id": "cart-item-product-id-2",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-2.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20,
-      "url": "/item-url"
-    },
-    {
-      "id": "cart-item-product-id-3",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-3.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20,
-      "url": "/item-url"
-    },
-    {
-      "id": "cart-item-product-id-4",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-4.jpg",
-      "isAvailable": false,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20
-    },
-    {
-      "id": "cart-item-product-id-5",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-3.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20
-    },
-    {
-      "id": "cart-item-product-id-6",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-2.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20
-    },
-    {
-      "id": "cart-item-product-id-7",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20
-    },
-    {
-      "id": "cart-item-product-id-8",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-2.jpg",
-      "isAvailable": false,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20
-    },
-    {
-      "id": "cart-item-product-id-9",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-4.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20
-    },
-    {
-      "id": "cart-item-product-id-10",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-3.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20
-    },
-    {
-      "id": "cart-item-product-id-11",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20
-    },
-    {
-      "id": "cart-item-product-id-12",
-      "name": "Watari High-grade Red Apples",
-      "imageUrl": "/store-featured-item-2.jpg",
-      "isAvailable": true,
-      "total": 3500,
-      "subTotal": 2000,
-      "weight": 1000,
-      "quantity": 9,
-      "discount": 20
-    }
-  ]
+  }
 }
