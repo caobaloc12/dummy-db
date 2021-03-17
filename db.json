@@ -1,4 +1,6 @@
 {
+  "totalAmount": 15740,
+  "promo": 10200,
   "stores": [
     {
       "id": "s1",
@@ -6,7 +8,7 @@
       "deliveryDate": "2021-03-06 13:00:00",
       "isChecked": true,
       "logo": "small-store-cover.png",
-      "subtotal": 15740.25,
+      "subTotal": 15740.25,
       "url": "/costco",
       "messageBanner": {
         "bgColor": "#e6f4ff",
@@ -23,7 +25,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -36,7 +38,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -49,7 +51,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -62,10 +64,10 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
-          "isChecked": true
+          "isChecked": false
         },
         {
           "id": "cart-item-product-id-5",
@@ -75,7 +77,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -88,7 +90,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -101,7 +103,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -182,7 +184,7 @@
       "deliveryDate": "2021-03-10 13:00:00",
       "isChecked": true,
       "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
+      "subTotal": 12356.78,
       "url": "/store-name-2",
       "messageBanner": {
         "bgColor": "#e6f4ff",
@@ -199,7 +201,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -212,7 +214,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -225,7 +227,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -238,10 +240,10 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
-          "isChecked": true
+          "isChecked": false
         },
         {
           "id": "cart-item-product-id-5",
@@ -251,7 +253,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -264,7 +266,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -277,7 +279,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -290,7 +292,7 @@
       "deliveryDate": "2021-03-04 13:00:00",
       "isChecked": true,
       "logo": "small-store-cover.png",
-      "subtotal": 15678.49,
+      "subTotal": 15678.49,
       "url": "/store-name-3",
       "messageBanner": {
         "bgColor": "#0c21e5",
@@ -307,7 +309,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -320,7 +322,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -333,7 +335,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -346,10 +348,10 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
-          "isChecked": true
+          "isChecked": false
         },
         {
           "id": "cart-item-product-id-5",
@@ -359,7 +361,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -372,7 +374,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -385,7 +387,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -398,7 +400,7 @@
       "deliveryDate": "2021-03-10 13:00:00",
       "isChecked": true,
       "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
+      "subTotal": 12356.78,
       "url": "/store-name-4",
       "messageBanner": {
         "bgColor": "#e6f4ff",
@@ -415,7 +417,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -428,7 +430,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -441,7 +443,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -454,10 +456,10 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
-          "isChecked": true
+          "isChecked": false
         },
         {
           "id": "cart-item-product-id-5",
@@ -467,7 +469,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -480,7 +482,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -493,7 +495,7 @@
           "total": 3500,
           "subTotal": 2000,
           "weight": 1000,
-          "quantity": 9,
+          "quantity": 1,
           "discount": 20,
           "url": "/item-url",
           "isChecked": true
@@ -506,7 +508,7 @@
       "deliveryDate": "2021-03-10 13:00:00",
       "isChecked": true,
       "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
+      "subTotal": 12356.78,
       "url": "/store-name-5",
       "messageBanner": {
         "bgColor": "#e6f4ff",
@@ -521,7 +523,7 @@
       "deliveryDate": "2021-03-10 13:00:00",
       "isChecked": true,
       "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
+      "subTotal": 12356.78,
       "url": "/store-name-6",
       "messageBanner": {
         "bgColor": "#e6f4ff",
@@ -536,7 +538,7 @@
       "deliveryDate": "2021-03-10 13:00:00",
       "isChecked": true,
       "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
+      "subTotal": 12356.78,
       "url": "/store-name-7",
       "messageBanner": {
         "bgColor": "#0c21e5",
@@ -551,7 +553,7 @@
       "deliveryDate": "2021-03-10 13:00:00",
       "isChecked": true,
       "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
+      "subTotal": 12356.78,
       "url": "/store-name-8",
       "messageBanner": {
         "bgColor": "#0c21e5",
@@ -566,7 +568,7 @@
       "deliveryDate": "2021-03-10 13:00:00",
       "isChecked": true,
       "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
+      "subTotal": 12356.78,
       "url": "/store-name-9",
       "messageBanner": {
         "bgColor": "#0c21e5",
