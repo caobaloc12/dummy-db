@@ -284,6 +284,41 @@
           "url": "/item-url",
           "isChecked": true
         }
+      ],
+      "vouchers": [
+        {
+          "id": "vc2.1",
+          "voucherCode": "TEST2.1",
+          "voucherValue": 500,
+          "minimumPurchase": 1500,
+          "validity": {
+            "from": "2021/03/01",
+            "to": "2021/03/31"
+          },
+          "claimable": true
+        },
+        {
+          "id": "vc2.2",
+          "voucherCode": "TEST2.2",
+          "voucherValue": 700,
+          "minimumPurchase": 1500,
+          "validity": {
+            "from": "2021/03/01",
+            "to": "2021/03/31"
+          },
+          "claimable": true
+        },
+        {
+          "id": "vc2.3",
+          "voucherCode": "TEST2.2",
+          "voucherValue": 500,
+          "minimumPurchase": 1500,
+          "validity": {
+            "from": "2021/03/01",
+            "to": "2021/03/31"
+          },
+          "claimable": false
+        }
       ]
     },
     {
@@ -588,14 +623,14 @@
     },
     {
       "id": "da2",
-      "address": "Block 36 Lot 3 Bougainvillea St., Dreamland Subdivision, Hagonoy, Taguig, Metro Manila Landmark: Sky Blue Gate",
+      "address": "Dreamland Subdivision, Hagonoy, Taguig, Metro Manila Landmark: Sky Blue Gate",
       "customer": "John Vincent Rolluqui",
       "label": "Office",
       "isDefault": false
     },
     {
       "id": "da3",
-      "address": "Block 36 Lot 3 Bougainvillea St., Dreamland Subdivision, Hagonoy, Taguig, Metro Manila Landmark: Sky Blue Gate",
+      "address": "Block 36 Lot 3 Bougainvillea St., Dreamland Subdivision",
       "customer": "John Vincent Rolluqui",
       "label": "In-Laws",
       "isDefault": false
