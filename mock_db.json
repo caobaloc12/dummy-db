@@ -1,642 +1,76 @@
 {
-  "totalAmount": 15740,
-  "promo": 10200,
-  "stores": [
+  "products": [
     {
-      "id": "s1",
-      "name": "Costco",
-      "deliveryDate": "2021-03-06 13:00:00",
-      "isChecked": true,
-      "logo": "small-store-cover.png",
-      "subtotal": 15740.25,
-      "url": "/costco",
-      "messageBanner": {
-        "bgColor": "#e6f4ff",
-        "color": "#2a2a2a",
-        "id": "m1",
-        "message": "Yay! You've reached this store's minimum purchase. Add more to get Free Delivery!"
-      },
-      "cartItems": [
-        {
-          "id": "cart-item-product-id-1",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-2",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-2.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-3",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-3.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-4",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-4.jpg",
-          "isAvailable": false,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": false
-        },
-        {
-          "id": "cart-item-product-id-5",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-3.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-6",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-2.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-7",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        }
-      ],
-      "vouchers": [
-        {
-          "id": "vc1",
-          "voucherCode": "TEST1",
-          "voucherValue": 500,
-          "minimumPurchase": 1500,
-          "validity": {
-            "from": "2021/03/01",
-            "to": "2021/03/31"
-          },
-          "claimable": true
-        },
-        {
-          "id": "vc2",
-          "voucherCode": "TEST2",
-          "voucherValue": 500,
-          "minimumPurchase": 1500,
-          "validity": {
-            "from": "2021/03/01",
-            "to": "2021/03/31"
-          },
-          "claimable": true
-        },
-        {
-          "id": "vc3",
-          "voucherCode": "TEST3",
-          "voucherValue": 500,
-          "minimumPurchase": 1500,
-          "validity": {
-            "from": "2021/03/01",
-            "to": "2021/03/31"
-          },
-          "claimable": true
-        },
-        {
-          "id": "vc4",
-          "voucherCode": "TEST4",
-          "voucherValue": 500,
-          "minimumPurchase": 1500,
-          "validity": {
-            "from": "2021/03/01",
-            "to": "2021/03/31"
-          },
-          "claimable": true
-        },
-        {
-          "id": "vc5",
-          "voucherCode": "TEST5",
-          "voucherValue": 500,
-          "minimumPurchase": 1500,
-          "validity": {
-            "from": "2021/03/01",
-            "to": "2021/03/31"
-          },
-          "claimable": false
-        },
-        {
-          "id": "vc6",
-          "voucherCode": "TEST6",
-          "voucherValue": 500,
-          "minimumPurchase": 1500,
-          "validity": {
-            "from": "2021/03/01",
-            "to": "2021/03/31"
-          },
-          "claimable": false
-        }
-      ]
+      "item_id": "9bdd2",
+      "item_name": "Compton T-Shirt",
+      "price": "44.00",
+      "item_brand": "Compton",
+      "item_category": "T-Shirts",
+      "index": "1",
+      "img": "https://enhancedecommerce.appspot.com/images/yellowT.png"
     },
     {
-      "id": "s2",
-      "name": "Store name 2",
-      "deliveryDate": "2021-03-10 13:00:00",
-      "isChecked": true,
-      "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
-      "url": "/store-name-2",
-      "messageBanner": {
-        "bgColor": "#e6f4ff",
-        "color": "#2a2a2a",
-        "id": "m2",
-        "message": "Shop ₱1000.00 more for ₱200.00 delivery fee discount"
-      },
-      "cartItems": [
-        {
-          "id": "cart-item-product-id-1",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-2",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-2.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-3",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-3.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-4",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-4.jpg",
-          "isAvailable": false,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": false
-        },
-        {
-          "id": "cart-item-product-id-5",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-3.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-6",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-2.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-7",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        }
-      ],
-      "vouchers": [
-        {
-          "id": "vc2.1",
-          "voucherCode": "TEST2.1",
-          "voucherValue": 500,
-          "minimumPurchase": 1500,
-          "validity": {
-            "from": "2021/03/01",
-            "to": "2021/03/31"
-          },
-          "claimable": true
-        },
-        {
-          "id": "vc2.2",
-          "voucherCode": "TEST2.2",
-          "voucherValue": 700,
-          "minimumPurchase": 1500,
-          "validity": {
-            "from": "2021/03/01",
-            "to": "2021/03/31"
-          },
-          "claimable": true
-        },
-        {
-          "id": "vc2.3",
-          "voucherCode": "TEST2.2",
-          "voucherValue": 500,
-          "minimumPurchase": 1500,
-          "validity": {
-            "from": "2021/03/01",
-            "to": "2021/03/31"
-          },
-          "claimable": false
-        }
-      ]
+      "item_id": "f6be8",
+      "item_name": "Comverges T-Shirt",
+      "price": "33.00",
+      "item_brand": "Comverges",
+      "item_category": "T-Shirts",
+      "index": "2",
+      "img": "https://enhancedecommerce.appspot.com/images/greyT.png"
     },
     {
-      "id": "s3",
-      "name": "Store name 3",
-      "deliveryDate": "2021-03-04 13:00:00",
-      "isChecked": true,
-      "logo": "small-store-cover.png",
-      "subtotal": 15678.49,
-      "url": "/store-name-3",
-      "messageBanner": {
-        "bgColor": "#0c21e5",
-        "color": "#ffffff",
-        "id": "m3",
-        "message": "Sorry, Delivery slots are full. We're increasing our capacity and opening delivery slots daily. Come back soon and check out the availability in your delivery area."
-      },
-      "cartItems": [
-        {
-          "id": "cart-item-product-id-1",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-2",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-2.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-3",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-3.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-4",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-4.jpg",
-          "isAvailable": false,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": false
-        },
-        {
-          "id": "cart-item-product-id-5",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-3.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-6",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-2.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-7",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        }
-      ]
+      "item_id": "b55da",
+      "item_name": "Flexigen T-Shirt",
+      "price": "16.00",
+      "item_brand": "Flexigen",
+      "item_category": "T-Shirts",
+      "index": "3",
+      "img": "https://enhancedecommerce.appspot.com/images/blackT.png"
     },
     {
-      "id": "s4",
-      "name": "Store name 4",
-      "deliveryDate": "2021-03-10 13:00:00",
-      "isChecked": true,
-      "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
-      "url": "/store-name-4",
-      "messageBanner": {
-        "bgColor": "#e6f4ff",
-        "color": "#2a2a2a",
-        "id": "m2",
-        "message": "Shop ₱1000.00 more for ₱200.00 delivery fee discount"
-      },
-      "cartItems": [
-        {
-          "id": "cart-item-product-id-1",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-2",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-2.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-3",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-3.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-4",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-4.jpg",
-          "isAvailable": false,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": false
-        },
-        {
-          "id": "cart-item-product-id-5",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-3.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-6",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item-2.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        },
-        {
-          "id": "cart-item-product-id-7",
-          "name": "Watari High-grade Red Apples",
-          "imageUrl": "/store-featured-item.jpg",
-          "isAvailable": true,
-          "total": 3500,
-          "subtotal": 2000,
-          "weight": 1000,
-          "quantity": 1,
-          "discount": 20,
-          "url": "/item-url",
-          "isChecked": true
-        }
-      ]
+      "item_id": "bc823",
+      "item_name": "Fuelworks T-Shirt",
+      "price": "92.00",
+      "item_brand": "Fuelworks",
+      "item_category": "T-Shirts",
+      "index": "4",
+      "img": "https://enhancedecommerce.appspot.com/images/pinkT.png"
     },
     {
-      "id": "s5",
-      "name": "Store name 5",
-      "deliveryDate": "2021-03-10 13:00:00",
-      "isChecked": true,
-      "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
-      "url": "/store-name-5",
-      "messageBanner": {
-        "bgColor": "#e6f4ff",
-        "color": "#2a2a2a",
-        "id": "m2",
-        "message": "Shop ₱1000.00 more for ₱200.00 delivery fee discount"
-      }
+      "item_id": "035f0",
+      "item_name": "Futuris T-Shirt",
+      "price": "55.00",
+      "item_brand": "Futuris",
+      "item_category": "T-Shirts",
+      "index": "5",
+      "img": "https://enhancedecommerce.appspot.com/images/brownT.png"
     },
     {
-      "id": "s6",
-      "name": "Store name 6",
-      "deliveryDate": "2021-03-10 13:00:00",
-      "isChecked": true,
-      "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
-      "url": "/store-name-6",
-      "messageBanner": {
-        "bgColor": "#e6f4ff",
-        "color": "#2a2a2a",
-        "id": "m2",
-        "message": "Shop ₱1000.00 more for ₱200.00 delivery fee discount"
-      }
+      "item_id": "8835a",
+      "item_name": "Isoternia T-Shirt",
+      "price": "57.00",
+      "item_brand": "Isoternia",
+      "item_category": "T-Shirts",
+      "index": "6",
+      "img": "https://enhancedecommerce.appspot.com/images/azureT.png"
     },
     {
-      "id": "s7",
-      "name": "Store name 7",
-      "deliveryDate": "2021-03-10 13:00:00",
-      "isChecked": true,
-      "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
-      "url": "/store-name-7",
-      "messageBanner": {
-        "bgColor": "#0c21e5",
-        "color": "#ffffff",
-        "id": "m2",
-        "message": "Sorry, this store isn't available in your area yet!"
-      }
+      "item_id": "57b9d",
+      "item_name": "Kiosk T-Shirt",
+      "price": "55.00",
+      "item_brand": "Kiosk",
+      "item_category": "T-Shirts",
+      "index": "7",
+      "img": "https://enhancedecommerce.appspot.com/images/greenT.png"
     },
     {
-      "id": "s8",
-      "name": "Store name 8",
-      "deliveryDate": "2021-03-10 13:00:00",
-      "isChecked": true,
-      "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
-      "url": "/store-name-8",
-      "messageBanner": {
-        "bgColor": "#0c21e5",
-        "color": "#ffffff",
-        "id": "m2",
-        "message": "Sorry, this store isn't available in your area yet!"
-      }
-    },
-    {
-      "id": "s9",
-      "name": "Store name 9",
-      "deliveryDate": "2021-03-10 13:00:00",
-      "isChecked": true,
-      "logo": "small-store-cover.png",
-      "subtotal": 12356.78,
-      "url": "/store-name-9",
-      "messageBanner": {
-        "bgColor": "#0c21e5",
-        "color": "#ffffff",
-        "id": "m2",
-        "message": "Sorry, this store isn't available in your area yet!"
-      }
+      "item_id": "dc646",
+      "item_name": "Lunchpod T-Shirt",
+      "price": "90.00",
+      "item_brand": "Lunchpod",
+      "item_category": "T-Shirts",
+      "index": "8",
+      "img": "https://enhancedecommerce.appspot.com/images/orangeT.png"
     }
-  ],
-  "deliveryAddresses": [
-    {
-      "id": "da1",
-      "address": "Block 36 Lot 3 Bougainvillea St., Dreamland Subdivision, Hagonoy, Taguig, Metro Manila Landmark: Sky Blue Gate",
-      "customer": "John Vincent Rolluqui",
-      "label": "Home",
-      "isDefault": true
-    },
-    {
-      "id": "da2",
-      "address": "Dreamland Subdivision, Hagonoy, Taguig, Metro Manila Landmark: Sky Blue Gate",
-      "customer": "John Vincent Rolluqui",
-      "label": "Office",
-      "isDefault": false
-    },
-    {
-      "id": "da3",
-      "address": "Block 36 Lot 3 Bougainvillea St., Dreamland Subdivision",
-      "customer": "John Vincent Rolluqui",
-      "label": "In-Laws",
-      "isDefault": false
-    }
-  ],
-  "profile": {
-    "name": "lc12"
-  }
+  ]
 }
